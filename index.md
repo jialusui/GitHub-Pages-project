@@ -27,9 +27,9 @@ My personal rankings are:
 3. One Day
 
 Tasks I wish to accomplish this year:
-- [] Find a summer intern
-- [] Receive offers to my favorite master programs
-- [] Come back to campus soon
+- [ ] Find a summer intern
+- [ ] Receive offers to my favorite master programs
+- [ ] Come back to campus soon
 
 Do not remember my name? Jump back to my introduction! [Go back to introduction](#introduction)
 
